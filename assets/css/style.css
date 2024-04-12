@@ -14,11 +14,12 @@ h1 {
   font-weight: 300;
 }
   
-img {
+#logo {
   max-width: 40%;
   padding: 20px;
   display: block;
   margin: 0 auto;
+  align-items: center;
 }
 
 form {
@@ -39,7 +40,7 @@ form {
 }
   
 .btn a {
-    color: white;
+  color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
